@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import one.digitalinnovation.gof.model.Cliente;
+import one.digitalinnovation.gof.model.repository.entity.Cliente;
 import one.digitalinnovation.gof.service.ClienteService;
 
 /**

@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof.model;
+package one.digitalinnovation.gof.model.repository.entity;
 
 import lombok.Getter;
 import lombok.Setter;
